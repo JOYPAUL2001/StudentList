@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373302075924",
+    "project_id": "studentlist-bbe92",
+    "storage_bucket": "studentlist-bbe92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373302075924:android:61b9cb04a1f9be46927d01",
+        "android_client_info": {
+          "package_name": "com.example.studentlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOd-dc68FzlAqS44Wwpr6ZxC-dbGmWzmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
